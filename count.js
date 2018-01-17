@@ -12,6 +12,6 @@ function countLetter(word) {
   }
   return letterCount;
 }
-
 countLetter(letter);
+
 console.log(letterCount);
